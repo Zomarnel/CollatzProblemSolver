@@ -1,0 +1,16 @@
+C:\Users\Bouazza\Desktop\C#Projects\MathIdeas\MathIdeas\bin\Debug\net5.0\MathIdeas.exe
+C:\Users\Bouazza\Desktop\C#Projects\MathIdeas\MathIdeas\bin\Debug\net5.0\MathIdeas.deps.json
+C:\Users\Bouazza\Desktop\C#Projects\MathIdeas\MathIdeas\bin\Debug\net5.0\MathIdeas.runtimeconfig.json
+C:\Users\Bouazza\Desktop\C#Projects\MathIdeas\MathIdeas\bin\Debug\net5.0\MathIdeas.runtimeconfig.dev.json
+C:\Users\Bouazza\Desktop\C#Projects\MathIdeas\MathIdeas\bin\Debug\net5.0\MathIdeas.dll
+C:\Users\Bouazza\Desktop\C#Projects\MathIdeas\MathIdeas\bin\Debug\net5.0\ref\MathIdeas.dll
+C:\Users\Bouazza\Desktop\C#Projects\MathIdeas\MathIdeas\bin\Debug\net5.0\MathIdeas.pdb
+C:\Users\Bouazza\Desktop\C#Projects\MathIdeas\MathIdeas\obj\Debug\net5.0\MathIdeas.csproj.AssemblyReference.cache
+C:\Users\Bouazza\Desktop\C#Projects\MathIdeas\MathIdeas\obj\Debug\net5.0\MathIdeas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bouazza\Desktop\C#Projects\MathIdeas\MathIdeas\obj\Debug\net5.0\MathIdeas.AssemblyInfoInputs.cache
+C:\Users\Bouazza\Desktop\C#Projects\MathIdeas\MathIdeas\obj\Debug\net5.0\MathIdeas.AssemblyInfo.cs
+C:\Users\Bouazza\Desktop\C#Projects\MathIdeas\MathIdeas\obj\Debug\net5.0\MathIdeas.csproj.CoreCompileInputs.cache
+C:\Users\Bouazza\Desktop\C#Projects\MathIdeas\MathIdeas\obj\Debug\net5.0\MathIdeas.dll
+C:\Users\Bouazza\Desktop\C#Projects\MathIdeas\MathIdeas\obj\Debug\net5.0\ref\MathIdeas.dll
+C:\Users\Bouazza\Desktop\C#Projects\MathIdeas\MathIdeas\obj\Debug\net5.0\MathIdeas.pdb
+C:\Users\Bouazza\Desktop\C#Projects\MathIdeas\MathIdeas\obj\Debug\net5.0\MathIdeas.genruntimeconfig.cache
